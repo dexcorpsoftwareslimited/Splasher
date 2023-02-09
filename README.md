@@ -4,9 +4,9 @@ Boot Splash Screen Maker Tool.
 This tool can create a splash image of your design. 
 
 # Prerequisites
-ADB Fastboot Drivers should be installed. <br>
-Qualcomm Drivers should be Installed. <br>
-Google ADB Drivers should be Installed. <br>
+ADB Fastboot Drivers should be installed.https://xiaomidriver.com/xiaomi-redmi-note-6-pro <br>
+Qualcomm Drivers should be Installed. https://xiaomidriver.com/xiaomi-redmi-note-6-pro <br>
+Google ADB Drivers should be Installed.https://developer.android.com/studio/run/win-usb <br>
 The bootloader of the device should be unlocked (Redmi Note 6 Pro). <br>
 USB debugging should be enabled. <br>
 # Installation Steps
