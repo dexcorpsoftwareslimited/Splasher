@@ -14,7 +14,7 @@ You can use any software or tool of your choice to design your boot splash scree
 # Installation Guide
 Step 1:Go to <a href="https://dexcorpsoftwareslimited.github.io/Splasher">splasher home page</a> to download the tool. <br>
 Step 2: Click on download and a setup file will be downloaded. <br>
-Step 3: Contact <a href="https://m.me/mahfuz0712">Mohammad Mahfuz Rahman</a> to buy a serial license key for the tool. (Only 50 BDT). <br>
+Step 3: Contact <a href="https://m.me/mahfuzrahman0712">Mohammad Mahfuz Rahman</a> to buy a serial license key for the tool. (Only 50 BDT). <br>
 Step 4: Now double click on the setup file and enter your username (organization is optional) and the serial key that you purchased from MD Mahfuz Rahman. <br>
 Step 5: Now Install it in anywhere in 'D' Drive . (Warning: Do not install it in C Drive cause it will not work properly.) <br>
 Step 6: Now just click on next , next and your Splasher Tool Will be Installed. <br>
