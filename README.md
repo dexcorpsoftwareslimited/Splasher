@@ -9,7 +9,7 @@ Latest Google USB drivers should be installed in your system . <a href="https://
 The instructions to install latest Google USB drivers are exactly same that you read on Xiaomi Driver installation guide Page. 
 The bootloader of the device should be unlocked and USB debugging should be enabled.
 # How to Design
-You can use any software or tool of your choice to design your boot splash screen but the resolution should be 1080 by 21060 pixels and the format should be png. <br>
+You can use any software or tool of your choice to design your boot splash screen but the resolution should be 1080 by 2160 pixels and the format should be png. <br>
 
 # Installation Guide
 Step 1:Go to <a href="https://dexcorpsoftwareslimited.github.io/Splasher">splasher home page</a> to download the tool. <br>
